@@ -1314,7 +1314,7 @@ body {
   text-align: left;
 }
 .cid-qKSxglvMIL {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #000000;
 }
@@ -1353,7 +1353,6 @@ body {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #000000;
-  background: linear-gradient(45deg, #000000, #000000);
 }
 .cid-qLay3yO6Vd .media-container-row {
   flex-direction: row-reverse;
