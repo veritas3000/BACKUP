@@ -1438,16 +1438,23 @@ body {
 }
 .cid-qKSxhCLaw0 .mbr-section-title {
   text-align: center;
-  color: #a025a7;
+  color: #b1a374;
 }
 .cid-qKSxhCLaw0 .mbr-text,
 .cid-qKSxhCLaw0 .mbr-section-btn {
   color: #b1a374;
-  text-align: left;
+  text-align: center;
 }
 .cid-qKSxhCLaw0 .mbr-text,
 .cid-qKSxhCLaw0 .mbr-section-btn B {
   color: #b1a374;
+}
+.cid-qKSxhCLaw0 .mbr-section-title B {
+  color: #e4d295;
+}
+.cid-qKSxhCLaw0 .mbr-section-title DIV {
+  color: #b1a374;
+  text-align: center;
 }
 .cid-qKUfExiGBC {
   padding-top: 120px;
