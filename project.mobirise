@@ -45,7 +45,7 @@
     "siteUrl": "http://reflectivelyyours.com",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/ry-favicon-32x32.png",
-    "noImageResize": "",
+    "noImageResize": "true",
     "cookiesAlert": "",
     "google-analytics": "",
     "sitemapSwitcher": "on",
