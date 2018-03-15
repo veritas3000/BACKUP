@@ -573,7 +573,7 @@ a:hover {
 }
 /* Scroll to top button*/
 .scrollToTop_wraper {
-  opacity: 0 !important;
+  display: none;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1415,7 +1415,7 @@ body {
   }
 }
 .cid-qLzlcTx3xN .card-title {
-  color: #52b022;
+  color: #f7ed4a;
   text-align: center;
 }
 .cid-qLzlcTx3xN .card-title B {
